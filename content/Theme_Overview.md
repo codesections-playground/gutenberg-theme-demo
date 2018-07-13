@@ -9,10 +9,10 @@ This site provides a demo for the After Dark theme for the
 [Gutenberg](https://www.getgutenberg.io/) static site generator.  After Dark
 was designed by [Vincent Prouillet](https://vincent.is/) and was based on
 the After Dark Hugo theme by Josh Habdas.  This demo site was built by
-[Daniel Sockwell](www.codesections.com).  Both the theme and this site are
-licensed under the [MIT license](https://opensource.org/licenses/MIT), so
-you may freely use and redistribute either for commercial or non-commercial 
-work.
+[Daniel Sockwell](https://www.codesections.com).  Both the theme and this
+site are licensed under the
+[MIT license](https://opensource.org/licenses/MIT), so you may freely use and
+redistribute either for commercial or non-commercial work.
 
 You can find the source code for this site [in its GitHub
 repository](https://github.com/codesections/gutenberg-theme-demo/tree/after-dark)
