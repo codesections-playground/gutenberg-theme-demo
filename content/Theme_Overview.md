@@ -15,9 +15,10 @@ you may freely use and redistribute either for commercial or non-commercial
 work.
 
 You can find the source code for this site [in its GitHub
-repository](https://www.github.com) and can find the source code for the 
-theme in the [After Dark](https://www.github.com/Keats/after-dark) repository.
-For a description of this theme and links to other Gutenberg themes, please
+repository](https://github.com/codesections/gutenberg-theme-demo/tree/after-dark)
+and can find the source code for the theme in the
+[After Dark](https://www.github.com/Keats/after-dark) repository.  For a
+description of this theme and links to other Gutenberg themes, please
 go to <https://www.getgutenberg.io/themes/>.
 
 <!-- more -->

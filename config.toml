@@ -25,7 +25,7 @@ after_dark_menu = [
     {url = "$BASE_URL/categories", name = "Categories"},
     {url = "$BASE_URL/tags", name = "Tags"},
     {url = "$BASE_URL/rss.xml", name = "RSS"},
-    {url = "https://github.com/codesections", name = "Source Code"},
+    {url = "https://github.com/codesections/gutenberg-theme-demo/tree/after-dark", name = "Source Code"},
 ]
 
 title = "After Dark demo site"
