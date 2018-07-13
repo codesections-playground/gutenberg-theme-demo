@@ -1,5 +1,7 @@
 # The URL the site will be built for
-base_url = "https://gutenberg-theme-demo.netlify.com"
+base_url = "https://after-dark--gutenberg-theme-demo.netlify.com"
+
+theme = "after-dark"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -11,5 +13,19 @@ highlight_code = true
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
 
+generate_rss = true
+
+title = "After Dark Demo"
+
 [extra]
 # Put all your custom variables here
+
+after_dark_menu = [
+    {url = "$BASE_URL", name = "Home"},
+    {url = "$BASE_URL/categories", name = "Categories"},
+    {url = "$BASE_URL/tags", name = "Tags"},
+    {url = "$BASE_URL/rss.xml", name = "RSS"},
+    {url = "https://github.com/codesections", name = "Source Code"},
+]
+
+title = "After Dark demo site"
