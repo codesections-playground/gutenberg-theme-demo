@@ -1,3 +1,6 @@
 [submodule "even"]
 	path = even
 	url = git@github.com:Keats/even.git
+[submodule "themes/even"]
+	path = themes/even
+	url = git@github.com:Keats/even.git
