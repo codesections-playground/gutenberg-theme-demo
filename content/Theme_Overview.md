@@ -5,11 +5,10 @@ category = "Real content"
 tags = [
 ]
 +++
-This site provides a demo for the Feather theme for the 
-[Gutenberg](https://www.getgutenberg.io/) static site generator.  Feather
-was designed by [doomy](https://vaporsoft.net/) and this demo site was built by
-[Daniel Sockwell](https://www.codesections.com).  Both the theme and this
-site are licensed under the
+This site provides a demo of the [Gutenberg](https://www.getgutenberg.io)
+theme Feather, which was designed by [doomy](https://vaporsoft.net).  This
+demo site was built by [Daniel Sockwell](https://www.codesections.com).  Both
+the theme and this site are licensed under the
 [MIT license](https://opensource.org/licenses/MIT), so you may freely use and
 redistribute either for commercial or non-commercial work.
 
