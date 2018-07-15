@@ -11,5 +11,15 @@ highlight_code = true
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
 
+theme = "hyde"
+
+title = "Hyde Demo"
+
+description = "A demonstration of the Hyde theme for Gutenberg"
 [extra]
 # Put all your custom variables here
+hyde_links = [
+  { url = "https://github.com/Keats/hyde", name = "Theme Source" },
+  { url = "https://www.github.com/codesections/gutenberg-theme-demo/tree/hyde", name = "Site Source" },
+  { url = "https://www.getgutenberg.io/themes/", name = "Additional Themes" },
+]
