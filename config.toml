@@ -28,4 +28,4 @@ after_dark_menu = [
     {url = "https://github.com/codesections/gutenberg-theme-demo/tree/after-dark", name = "Source Code"},
 ]
 
-title = "After Dark demo site"
+after_dark_title = "After Dark Demo"
