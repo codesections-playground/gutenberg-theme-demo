@@ -18,4 +18,5 @@ generate_tags_pages = true
 
 [extra]
 # Put all your custom variables here
-  feather_header_image = ""
+  # Image copyright Geoff Livingston; creative commons attribution license
+  feather_header_image = "header.jpg"
