@@ -1,6 +1,6 @@
 +++
 title = "Control Flow"
-weight = 5
+order = 5
 +++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor

@@ -1,6 +1,6 @@
 +++
 title = "Method Syntax"
-weight = 4
+order = 4
 +++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor

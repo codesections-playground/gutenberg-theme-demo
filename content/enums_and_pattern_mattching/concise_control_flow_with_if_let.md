@@ -1,6 +1,6 @@
 +++
 title = "Concise Control Flow with if let"
-weight = 3
+order = 3
 +++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor

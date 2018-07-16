@@ -1,7 +1,8 @@
 +++
 title = "Getting Started"
+order = 2
 weight = 2
-sort_by = "weight"
+sort_by = "order"
 +++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor

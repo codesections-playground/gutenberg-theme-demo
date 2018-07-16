@@ -1,16 +1,17 @@
 +++
 title = "Book Theme Overview"
+order = 1
 weight = 1
-sort_by = "weight"
+sort_by = "order"
 +++
-This site provides a demo for the After Dark theme for the 
-[Gutenberg](https://www.getgutenberg.io/) static site generator.  After Dark
+This site provides a demo for the Book theme for the 
+[Gutenberg](https://www.getgutenberg.io/) static site generator.  Book
 was designed by [Vincent Prouillet](https://vincent.is/) and was inspired by
 [GitBook](https://www.gitbook.com/).  This demo site was built by
 [Daniel Sockwell](https://www.codesections.com).  Both the theme and this
-site are licensed under the
-[MIT license](https://opensource.org/licenses/MIT), so you may freely use and
-redistribute either for commercial or non-commercial work.
+site are licensed under the [MIT license](https://opensource.org/licenses/MIT),
+so you may freely use and redistribute either for commercial or non-commercial
+work.
 
 You can find the source code for this site [in its GitHub
 repository](https://github.com/codesections/gutenberg-theme-demo/tree/book)

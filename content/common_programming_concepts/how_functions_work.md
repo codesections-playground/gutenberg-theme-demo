@@ -1,6 +1,6 @@
 +++
 title = "How Functions Work"
-weight = 3
+order = 10
 +++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor

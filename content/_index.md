@@ -1,5 +1,6 @@
 +++
 title = ""
-sort_by = "weight"
+sort_by = "order"
+redirect_to = "introduction"
 +++
 

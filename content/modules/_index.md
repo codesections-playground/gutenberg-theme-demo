@@ -1,7 +1,8 @@
 +++
 title = "Modules"
+order = 8
+sort_by = "order"
 weight = 8
-sort_by = "weight"
 +++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor

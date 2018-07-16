@@ -1,5 +1,6 @@
 +++
 title = "Programming a Guessing Game"
+order = 3
 weight = 3
 +++
 

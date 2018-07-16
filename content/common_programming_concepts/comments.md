@@ -1,6 +1,6 @@
 +++
 title = "Comments"
-weight = 4
+order = 1
 +++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor

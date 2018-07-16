@@ -1,7 +1,8 @@
 +++
 title = "Using Structs to Structure Related Data"
+order = 6
 weight = 6
-sort_by = "weight"
+sort_by = "order"
 +++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor

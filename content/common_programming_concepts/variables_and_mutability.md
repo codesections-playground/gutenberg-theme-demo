@@ -1,6 +1,6 @@
 +++
 title = "Variables and Mutability"
-weight = 1
+order = 1
 +++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor

@@ -1,7 +1,8 @@
 +++
 title = "Enums and Pattern Matching"
-weight = 7
-sort_by = "weight"
+order = 4
+weight = 4
+sort_by = "order"
 +++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor

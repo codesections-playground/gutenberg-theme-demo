@@ -1,7 +1,8 @@
 +++
 title = "Common Programming Concepts"
+order = 4
 weight = 4
-sort_by = "weight"
+sort_by = "order"
 +++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor

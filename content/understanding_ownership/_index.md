@@ -1,7 +1,8 @@
 +++
 title = "Understanding Ownership"
+order = 5
 weight = 5
-sort_by = "weight"
+sort_by = "order"
 +++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor

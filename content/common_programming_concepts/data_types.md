@@ -1,6 +1,6 @@
 +++
 title = "Data Types"
-weight = 2
+order = 2
 +++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
