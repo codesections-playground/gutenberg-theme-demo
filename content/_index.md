@@ -6,4 +6,3 @@ of sites showing off various Gutenberg themes.
 
 Current demos are:
 
-## After Dark
