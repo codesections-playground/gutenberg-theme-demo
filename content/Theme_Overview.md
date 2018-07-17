@@ -1,6 +1,6 @@
 +++
 title = "Theme Overview"
-date = 2018-07-18
+date = 2018-07-19
 +++
 This site provides a demo for the Hyde theme for the 
 [Gutenberg](https://www.getgutenberg.io/) static site generator.  Hyde
