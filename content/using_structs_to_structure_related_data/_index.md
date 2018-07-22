@@ -1,7 +1,7 @@
 +++
 title = "Using Structs to Structure Related Data"
 order = 6
-weight = 6
+weight = 7
 sort_by = "order"
 +++
 
