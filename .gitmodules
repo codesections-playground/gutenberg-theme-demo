@@ -1,3 +1,6 @@
 [submodule "book"]
 	path = book
 	url = git@github.com:Keats/book.git
+[submodule "themes/book"]
+	path = themes/book
+	url = git@github.com:Keats/book.git
