@@ -1,7 +1,6 @@
 +++
 title = "Common Programming Concepts"
 order = 4
-weight = 4
 sort_by = "order"
 +++
 

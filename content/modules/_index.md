@@ -2,7 +2,6 @@
 title = "Modules"
 order = 8
 sort_by = "order"
-weight = 8
 +++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor

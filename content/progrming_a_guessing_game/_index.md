@@ -1,7 +1,6 @@
 +++
 title = "Programming a Guessing Game"
 order = 3
-weight = 3
 +++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor

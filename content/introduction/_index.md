@@ -1,7 +1,6 @@
 +++
 title = "Book Theme Overview"
 order = 1
-weight = 1
 sort_by = "order"
 +++
 This site provides a demo for the Book theme for the 

@@ -1,7 +1,6 @@
 +++
 title = "Getting Started"
 order = 2
-weight = 2
 sort_by = "order"
 +++
 
