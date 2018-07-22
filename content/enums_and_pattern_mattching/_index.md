@@ -1,6 +1,7 @@
 +++
 title = "Enums and Pattern Matching"
 order = 4
+weight = 4
 sort_by = "order"
 +++
 

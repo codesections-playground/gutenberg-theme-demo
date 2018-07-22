@@ -1,6 +1,7 @@
 +++
 title = "Understanding Ownership"
 order = 5
+weight = 5
 sort_by = "order"
 +++
 
