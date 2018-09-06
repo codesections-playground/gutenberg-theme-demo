@@ -13,6 +13,12 @@ build_search_index = true
 
 theme = "even"
 
+taxonomies = [
+    # You can enable/disable RSS
+    {name = "categories", rss = true},
+    {name = "tags", rss = true},
+]
+
 [extra]
 # Put all your custom variables here
   even_title = "Even Theme"
